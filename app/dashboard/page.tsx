@@ -1,8 +1,15 @@
-export default function DashboardPage() {
+"use client";
+const DashboardPage: React.FC = () => {
   return (
-    <div className="flex flex-col gap-4 p-4">
-      <h1 className="text-2xl font-bold">Dashboard</h1>
-      <p>Welcome to the dashboard!</p>
+    <div className="min-h-screen bg-gray-50">
+
+      
+      <main className="p-6">
+        {/* Page content goes here */}
+        <h1 className="text-2xl font-bold text-gray-800">Dashboard</h1>
+      </main>
     </div>
   );
-}
+};
+
+export default DashboardPage;
