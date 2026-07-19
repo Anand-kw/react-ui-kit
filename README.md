@@ -219,7 +219,7 @@ auth.ts
 component.ts
 api.ts
 ```
-
+ 
 * **camelCase**
 * Export interfaces, types, and DTOs
 
