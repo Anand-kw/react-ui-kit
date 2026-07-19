@@ -1,0 +1,57 @@
+.logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #2563eb, #7c3aed);
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    box-shadow: 0 8px 20px rgba(37, 99, 235, 0.25);
+    transition: transform 0.25s ease;
+  }
+  
+  .text {
+    display: flex;
+    align-items: baseline;
+    font-family: Inter, sans-serif;
+    font-size: 1.7rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+  }
+  
+  .react {
+    color: #2563eb;
+  }
+  
+  .ui {
+    color: #111827;
+  }
+  
+  .kit {
+    color: #7c3aed;
+  }
+  
+  .separator {
+    color: #9ca3af;
+    margin: 0 2px;
+  }
+  
+  .logo:hover .icon {
+    transform: rotate(-8deg) scale(1.05);
+  }
+  
+  .logo:hover .react,
+  .logo:hover .kit {
+    filter: brightness(1.15);
+  }
