@@ -1,6 +1,6 @@
 "use client";
 import Button from "@/src/components/button/Button";
-import ConfirmModal from "@/src/components/model/confirm-modal/ConfirmModal";
+import ConfirmModal from "@/src/components/modal/confirm-modal/ConfirmModal";
 import { useState } from "react";
 
 export default function ButtonsPage() {

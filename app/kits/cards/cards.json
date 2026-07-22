@@ -1,0 +1,1712 @@
+{
+    "cards": [
+      {
+        "id": "101",
+        "name": "Ocean Breeze",
+        "description": "Calming blue gradient card",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#2193b0", "to": "#6dd5ed", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Ocean Breeze",
+          "subtitle": "Calm and serene",
+          "body": "Experience the tranquility of ocean waves with this soothing gradient.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "hover:scale-[1.02] transition-transform"
+        }
+      },
+      {
+        "id": "102",
+        "name": "Sunset Dreams",
+        "description": "Warm sunset gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#f093fb", "to": "#f5576c", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Sunset Dreams",
+          "subtitle": "Golden hour",
+          "body": "A beautiful sunset-inspired gradient with warm, vibrant colors.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "103",
+        "name": "Forest Walk",
+        "description": "Nature green gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#134e5e", "to": "#71b280", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Forest Walk",
+          "subtitle": "Nature's embrace",
+          "body": "Immerse yourself in the peaceful greens of a forest walk.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "104",
+        "name": "Midnight Galaxy",
+        "description": "Dark cosmic gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#0c0c1d", "to": "#1a1a3e", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Midnight Galaxy",
+          "subtitle": "Cosmic wonder",
+          "body": "Explore the depths of space with this dark cosmic gradient.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "border border-white/10"
+        }
+      },
+      {
+        "id": "105",
+        "name": "Cherry Blossom",
+        "description": "Pink sakura gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#ff758c", "to": "#ff7eb3", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Cherry Blossom",
+          "subtitle": "Spring bloom",
+          "body": "Delicate pink gradient inspired by cherry blossoms in spring.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "106",
+        "name": "Northern Lights",
+        "description": "Aurora borealis gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#00b09b", "to": "#96c93d", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Northern Lights",
+          "subtitle": "Aurora borealis",
+          "body": "Experience the magic of the Northern Lights with this vibrant gradient.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "107",
+        "name": "Lavender Fields",
+        "description": "Purple lavender gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#a18cd1", "to": "#fbc2eb", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Lavender Fields",
+          "subtitle": "Purple serenity",
+          "body": "Calming lavender gradient reminiscent of fields in full bloom.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "108",
+        "name": "Crimson Dawn",
+        "description": "Red dramatic gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#cb2d3e", "to": "#ef473a", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Crimson Dawn",
+          "subtitle": "Dramatic red",
+          "body": "A bold and dramatic crimson gradient for impactful designs.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "109",
+        "name": "Mint Morning",
+        "description": "Fresh mint gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#00b4db", "to": "#0083b0", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Mint Morning",
+          "subtitle": "Fresh and clean",
+          "body": "A fresh mint gradient that brings energy and vitality.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "110",
+        "name": "Amber Glow",
+        "description": "Golden amber gradient",
+        "category": "Modern",
+        "props": {
+          "gradient": { "from": "#f7971e", "to": "#ffd200", "degree": 135 },
+          "textColor": "#ffffff",
+          "header": "Amber Glow",
+          "subtitle": "Golden warmth",
+          "body": "Warm amber gradient that radiates golden energy and light.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "111",
+        "name": "Glass Premium",
+        "description": "Luxury glass effect",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "rgba(255,255,255,0.12)",
+          "header": "Glass Premium",
+          "subtitle": "Luxury design",
+          "body": "Premium glassmorphism card with elegant transparency effects.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "backdrop-blur-xl bg-white/12 border border-white/20",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "112",
+        "name": "Frosted Glass",
+        "description": "Frosted glass effect",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "rgba(255,255,255,0.08)",
+          "header": "Frosted Glass",
+          "subtitle": "Elegant blur",
+          "body": "Beautiful frosted glass card with subtle blur and shine.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "hoverable": true,
+          "className": "backdrop-blur-md bg-white/8 border border-white/15 shadow-[0_8px_32px_rgba(0,0,0,0.1)]",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "113",
+        "name": "Glass Dark",
+        "description": "Dark glassmorphism",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "backgroundColor": "rgba(255,255,255,0.05)",
+          "header": "Glass Dark",
+          "subtitle": "Dark frosted",
+          "body": "Dark glassmorphism card for premium dark UI experiences.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "backdrop-blur-xl bg-white/5 border border-white/10",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "114",
+        "name": "Glass Blue",
+        "description": "Blue glass effect",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "rgba(59,130,246,0.15)",
+          "header": "Glass Blue",
+          "subtitle": "Blue frosted",
+          "body": "Blue-tinted glassmorphism card with a modern feel.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "hoverable": true,
+          "className": "backdrop-blur-lg bg-blue-500/15 border border-blue-400/20",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "115",
+        "name": "Glass Pink",
+        "description": "Pink glass effect",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "rgba(236,72,153,0.15)",
+          "header": "Glass Pink",
+          "subtitle": "Pink frosted",
+          "body": "Pink-tinted glassmorphism card with a feminine touch.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "hoverable": true,
+          "className": "backdrop-blur-lg bg-pink-500/15 border border-pink-400/20",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "116",
+        "name": "Dark Elegance",
+        "description": "Sleek dark card",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "header": "Dark Elegance",
+          "subtitle": "Sleek and modern",
+          "body": "A sophisticated dark card design for premium interfaces.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "footer": {
+            "text": "✨ Premium dark theme",
+            "align": "center",
+            "className": "text-gray-400"
+          }
+        }
+      },
+      {
+        "id": "117",
+        "name": "Neon Glow",
+        "description": "Cyberpunk neon card",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "backgroundColor": "#0a0a0a",
+          "borderColor": "#00ff88",
+          "header": "⚡ Neon Glow",
+          "subtitle": "Cyberpunk style",
+          "body": "A neon-inspired card with glowing cyberpunk aesthetics.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "border-2 border-[#00ff88] shadow-[0_0_30px_rgba(0,255,136,0.3)]",
+          "textColor": "#00ff88"
+        }
+      },
+      {
+        "id": "118",
+        "name": "Neon Blue",
+        "description": "Blue neon glow",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "backgroundColor": "#0a0a0a",
+          "borderColor": "#3b82f6",
+          "header": "💙 Neon Blue",
+          "subtitle": "Electric blue",
+          "body": "Electric blue neon card with a futuristic glow effect.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "border-2 border-blue-500 shadow-[0_0_30px_rgba(59,130,246,0.3)]",
+          "textColor": "#3b82f6"
+        }
+      },
+      {
+        "id": "119",
+        "name": "Neon Pink",
+        "description": "Pink neon glow",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "backgroundColor": "#0a0a0a",
+          "borderColor": "#ec4899",
+          "header": "💗 Neon Pink",
+          "subtitle": "Vibrant pink",
+          "body": "Vibrant pink neon card with a bold and energetic glow.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "border-2 border-pink-500 shadow-[0_0_30px_rgba(236,72,153,0.3)]",
+          "textColor": "#ec4899"
+        }
+      },
+      {
+        "id": "120",
+        "name": "Dark Minimal",
+        "description": "Minimal dark card",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "header": "Dark Minimal",
+          "subtitle": "Clean and simple",
+          "body": "A clean, minimal dark card with subtle elegance.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md",
+          "className": "border border-gray-700"
+        }
+      },
+      {
+        "id": "121",
+        "name": "Neumorphic Light",
+        "description": "Soft UI design",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "#e0e5ec",
+          "header": "Neumorphic Light",
+          "subtitle": "Soft UI design",
+          "body": "A modern neumorphic card with soft shadows and depth.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "none",
+          "hoverable": true,
+          "className": "bg-[#e0e5ec] shadow-[20px_20px_60px_#bebebe,-20px_-20px_60px_#ffffff] hover:shadow-[10px_10px_30px_#bebebe,-10px_-10px_30px_#ffffff] transition-shadow"
+        }
+      },
+      {
+        "id": "122",
+        "name": "Neumorphic Dark",
+        "description": "Dark soft UI",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "#2d2d2d",
+          "header": "Neumorphic Dark",
+          "subtitle": "Dark soft UI",
+          "body": "A dark neumorphic card with soft shadows on dark background.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "none",
+          "hoverable": true,
+          "className": "bg-[#2d2d2d] shadow-[20px_20px_60px_#1a1a1a,-20px_-20px_60px_#404040] hover:shadow-[10px_10px_30px_#1a1a1a,-10px_-10px_30px_#404040] transition-shadow",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "123",
+        "name": "Neumorphic Blue",
+        "description": "Blue soft UI",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "#d4e0f0",
+          "header": "Neumorphic Blue",
+          "subtitle": "Blue soft UI",
+          "body": "Blue-toned neumorphic card with soft shadows.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "none",
+          "hoverable": true,
+          "className": "bg-[#d4e0f0] shadow-[20px_20px_60px_#b4c0d0,-20px_-20px_60px_#f4ffff] hover:shadow-[10px_10px_30px_#b4c0d0,-10px_-10px_30px_#f4ffff] transition-shadow"
+        }
+      },
+      {
+        "id": "124",
+        "name": "Neumorphic Green",
+        "description": "Green soft UI",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "#d4ecd4",
+          "header": "Neumorphic Green",
+          "subtitle": "Green soft UI",
+          "body": "Green-toned neumorphic card with organic feel.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "none",
+          "hoverable": true,
+          "className": "bg-[#d4ecd4] shadow-[20px_20px_60px_#b4ccb4,-20px_-20px_60px_#f4fff4] hover:shadow-[10px_10px_30px_#b4ccb4,-10px_-10px_30px_#f4fff4] transition-shadow"
+        }
+      },
+      {
+        "id": "125",
+        "name": "Neumorphic Pink",
+        "description": "Pink soft UI",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "#f0d4e0",
+          "header": "Neumorphic Pink",
+          "subtitle": "Pink soft UI",
+          "body": "Pink-toned neumorphic card with soft feminine touch.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "none",
+          "hoverable": true,
+          "className": "bg-[#f0d4e0] shadow-[20px_20px_60px_#d0b4c0,-20px_-20px_60px_#fff4ff] hover:shadow-[10px_10px_30px_#d0b4c0,-10px_-10px_30px_#fff4ff] transition-shadow"
+        }
+      },
+      {
+        "id": "126",
+        "name": "Pulse Glow",
+        "description": "Pulsing glow effect",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "header": "Pulse Glow",
+          "subtitle": "Living light",
+          "body": "A card with a subtle pulsing glow effect that brings it to life.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "animate-pulse-slow border border-blue-500/50 shadow-[0_0_30px_rgba(59,130,246,0.3)]",
+          "textColor": "#ffffff"
+        }
+      },
+      {
+        "id": "127",
+        "name": "Rainbow",
+        "description": "Rainbow gradient animation",
+        "category": "Modern",
+        "props": {
+          "header": "🌈 Rainbow",
+          "subtitle": "Colorful design",
+          "body": "A vibrant rainbow card that brings color and joy to your interface.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 text-white animate-gradient bg-[length:300%_300%]"
+        }
+      },
+      {
+        "id": "128",
+        "name": "Floating Card",
+        "description": "3D floating effect",
+        "category": "Modern",
+        "props": {
+          "header": "Floating",
+          "subtitle": "Lift and shadow",
+          "body": "A card that appears to float with realistic 3D depth.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "hover:translate-y-[-8px] hover:shadow-2xl transition-all duration-300"
+        }
+      },
+      {
+        "id": "129",
+        "name": "Shimmer",
+        "description": "Shimmering effect",
+        "category": "Modern",
+        "props": {
+          "header": "Shimmer",
+          "subtitle": "Sparkling shine",
+          "body": "A card with a shimmering effect that catches the light.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "relative overflow-hidden before:absolute before:inset-0 before:-translate-x-full before:animate-shimmer before:bg-gradient-to-r before:from-transparent before:via-white/20 before:to-transparent"
+        }
+      },
+      {
+        "id": "130",
+        "name": "Gradient Border",
+        "description": "Animated gradient border",
+        "category": "Modern",
+        "props": {
+          "header": "Gradient Border",
+          "subtitle": "Moving colors",
+          "body": "A card with a stunning animated gradient border.",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "relative overflow-hidden p-[2px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 animate-gradient bg-[length:200%_200%]"
+        }
+      },
+      {
+        "id": "131",
+        "name": "Minimal White",
+        "description": "Clean white card",
+        "category": "Modern",
+        "props": {
+          "variant": "default",
+          "header": "Minimal White",
+          "subtitle": "Clean and simple",
+          "body": "A pristine white card with minimal styling for a clean look.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "sm",
+          "className": "border-0 shadow-none"
+        }
+      },
+      {
+        "id": "132",
+        "name": "Minimal Shadow",
+        "description": "Subtle shadow design",
+        "category": "Modern",
+        "props": {
+          "variant": "default",
+          "header": "Minimal Shadow",
+          "subtitle": "Subtle depth",
+          "body": "A minimalist card with just a subtle shadow for depth.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md",
+          "className": "border-0"
+        }
+      },
+      {
+        "id": "133",
+        "name": "Minimal Border",
+        "description": "Clean bordered design",
+        "category": "Modern",
+        "props": {
+          "variant": "default",
+          "header": "Minimal Border",
+          "subtitle": "Clean lines",
+          "body": "A clean card with just a border for definition.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "none",
+          "className": "border-2 border-gray-200"
+        }
+      },
+      {
+        "id": "134",
+        "name": "Minimal Accent",
+        "description": "Accent left border",
+        "category": "Modern",
+        "props": {
+          "variant": "default",
+          "header": "Minimal Accent",
+          "subtitle": "Colorful accent",
+          "body": "A minimalist card with a colorful accent border.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "sm",
+          "className": "border-l-4 border-l-blue-500"
+        }
+      },
+      {
+        "id": "135",
+        "name": "Minimal Dot",
+        "description": "Dot accent design",
+        "category": "Modern",
+        "props": {
+          "variant": "default",
+          "header": "Minimal Dot",
+          "subtitle": "Simple accent",
+          "body": "A minimalist card with a simple dot accent.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "sm",
+          "className": "relative before:absolute before:-top-1 before:left-4 before:w-2 before:h-2 before:bg-blue-500 before:rounded-full"
+        }
+      },
+      {
+        "id": "136",
+        "name": "Twitter Style",
+        "description": "Twitter-like post",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "🐦 Tech News",
+            "subtitle": "@tech_news • 3h",
+            "action": "<span class='text-sm text-gray-500'>📌</span>"
+          },
+          "body": "Breaking: New AI model achieves human-level performance in natural language understanding.",
+          "footer": {
+            "actions": "<div class='flex gap-4 w-full justify-around text-sm text-gray-500'><button class='hover:text-blue-500 transition-colors'>💬 1.2K</button><button class='hover:text-green-500 transition-colors'>🔄 3.4K</button><button class='hover:text-red-500 transition-colors'>❤️ 8.9K</button></div>",
+            "align": "evenly"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "137",
+        "name": "Instagram Style",
+        "description": "Instagram-like post",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+            "position": "top",
+            "height": "250px"
+          },
+          "header": {
+            "title": "🌅 Travel Diaries",
+            "subtitle": "@travel_diaries",
+            "icon": "📸"
+          },
+          "body": "<div><div class='flex items-center gap-4 mt-2 text-sm'><span>❤️ 2.4K</span><span>💬 156</span><span>📍 Bali, Indonesia</span></div><p class='text-sm mt-1 text-gray-600'>Paradise found! 🌴✨ #Bali #Travel</p></div>",
+          "footer": {
+            "actions": "<div class='flex gap-4 w-full'><button class='hover:text-red-500 transition-colors'>❤️</button><button class='hover:text-blue-500 transition-colors'>💬</button><button class='hover:text-purple-500 transition-colors'>📤</button><button class='ml-auto text-sm text-gray-500'>💾 Save</button></div>",
+            "align": "between"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "138",
+        "name": "LinkedIn Style",
+        "description": "Professional network post",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "👨‍💼 John Doe",
+            "subtitle": "CEO at Tech Corp • 2h",
+            "icon": "💼"
+          },
+          "body": "<div><p>Excited to announce our latest product launch! 🚀 After months of hard work, we're finally ready to share this with the world.</p><div class='mt-3 flex items-center gap-4 text-sm text-gray-500'><span>❤️ 234</span><span>💬 45</span><span>🔄 12</span></div></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='px-4 py-1 bg-blue-600 text-white rounded-lg text-sm hover:bg-blue-700'>Like</button><button class='px-4 py-1 bg-gray-200 rounded-lg text-sm hover:bg-gray-300'>Comment</button></div>",
+            "align": "between"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "139",
+        "name": "Facebook Style",
+        "description": "Facebook-like post",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "👤 Sarah Johnson",
+            "subtitle": "2 hours ago",
+            "icon": "👤"
+          },
+          "body": "<div><p class='text-gray-700'>Just launched our new product! 🚀 Excited to share with everyone.</p><div class='mt-3 flex items-center gap-4 text-sm text-gray-500'><span>❤️ 124 likes</span><span>💬 18 comments</span><span>🔄 7 shares</span></div></div>",
+          "footer": {
+            "actions": "<div class='flex gap-4 w-full'><button class='flex-1 py-2 hover:bg-gray-100 rounded-lg transition-colors'>❤️ Like</button><button class='flex-1 py-2 hover:bg-gray-100 rounded-lg transition-colors'>💬 Comment</button><button class='flex-1 py-2 hover:bg-gray-100 rounded-lg transition-colors'>🔄 Share</button></div>",
+            "align": "between"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "140",
+        "name": "Story Card",
+        "description": "Social media story style",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1516245834210-c4c142787335?w=800",
+            "position": "background",
+            "overlay": true,
+            "overlayOpacity": 30
+          },
+          "header": {
+            "title": "✨ Morning Inspiration",
+            "subtitle": "Start your day with positivity",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-lg font-medium'>\"The only way to do great work is to love what you do.\"</p><p class='text-sm opacity-70 mt-2'>— Steve Jobs</p></div>",
+          "textColor": "#ffffff",
+          "padding": "xl",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "className": "min-h-[300px]"
+        }
+      },
+      {
+        "id": "141",
+        "name": "Product Card",
+        "description": "Modern product display",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+            "position": "top",
+            "height": "250px",
+            "overlay": true,
+            "overlayOpacity": 10
+          },
+          "header": {
+            "title": "Premium Headphones",
+            "subtitle": "Wireless Noise Cancelling",
+            "action": "<span class='text-sm text-yellow-500'>★★★★☆</span>"
+          },
+          "body": "<div><div class='flex items-center gap-2'><span class='text-2xl font-bold text-blue-600'>$199.99</span><span class='text-sm text-gray-400 line-through'>$299.99</span></div><p class='text-sm text-gray-500 mt-1'>30-day money-back guarantee</p></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors'>Add to Cart 🛒</button>",
+            "align": "center"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "md",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "142",
+        "name": "Flash Sale",
+        "description": "Limited time offer",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+            "position": "top",
+            "height": "200px",
+            "overlay": true,
+            "overlayOpacity": 20
+          },
+          "header": {
+            "title": "⚡ Flash Sale",
+            "subtitle": "Limited time offer",
+            "action": "<span class='text-sm bg-red-500 text-white px-2 py-1 rounded-full'>🔥 50% OFF</span>"
+          },
+          "body": "<div><div class='flex items-center gap-2'><span class='text-2xl font-bold text-red-600'>$149.99</span><span class='text-sm text-gray-400 line-through'>$299.99</span></div><div class='flex items-center gap-2 text-sm mt-1'><span class='text-red-500 font-medium'>⏰ Ends in:</span><span class='font-mono'>02:15:30</span></div><div class='w-full h-2 bg-gray-200 rounded-full overflow-hidden mt-2'><div class='w-3/4 h-full bg-red-500 rounded-full'></div></div><p class='text-xs text-gray-500 mt-1'>Only 5 left in stock</p></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-lg hover:shadow-lg transition-all'>Buy Now</button>",
+            "align": "center"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "md",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "143",
+        "name": "Wishlist Card",
+        "description": "Saved items display",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "❤️ Wishlist",
+            "subtitle": "5 saved items",
+            "action": "<span class='text-sm text-blue-600'>View All</span>"
+          },
+          "body": "<div class='grid grid-cols-2 gap-2'><div class='relative'><img src='https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200' alt='Product' class='w-full h-32 object-cover rounded-lg' /><div class='absolute top-1 right-1 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs'>❤️</div></div><div class='relative'><img src='https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=200' alt='Product' class='w-full h-32 object-cover rounded-lg' /><div class='absolute top-1 right-1 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs'>❤️</div></div><div class='relative'><img src='https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200' alt='Product' class='w-full h-32 object-cover rounded-lg' /><div class='absolute top-1 right-1 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs'>❤️</div></div><div class='bg-gray-100 rounded-lg flex items-center justify-center h-32 cursor-pointer hover:bg-gray-200 transition-colors'><span class='text-2xl'>+2</span></div></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "144",
+        "name": "Shopping Cart",
+        "description": "Cart item summary",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "🛒 Shopping Cart",
+            "subtitle": "3 items",
+            "action": "<span class='text-sm text-blue-600'>Edit Cart</span>"
+          },
+          "body": "<div class='space-y-3'><div class='flex items-center gap-3 p-2 hover:bg-gray-50 rounded-lg'><img src='https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=100' alt='Product' class='w-12 h-12 rounded-lg object-cover' /><div class='flex-1'><p class='text-sm font-medium'>Headphones</p><p class='text-xs text-gray-500'>Qty: 1</p></div><span class='text-sm font-medium'>$199.99</span></div><div class='flex items-center gap-3 p-2 hover:bg-gray-50 rounded-lg'><img src='https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=100' alt='Product' class='w-12 h-12 rounded-lg object-cover' /><div class='flex-1'><p class='text-sm font-medium'>Camera</p><p class='text-xs text-gray-500'>Qty: 1</p></div><span class='text-sm font-medium'>$499.00</span></div><div class='border-t pt-2 flex justify-between font-medium'><span>Total</span><span class='text-blue-600'>$698.99</span></div></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors'>Proceed to Checkout</button>",
+            "align": "center"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "145",
+        "name": "Sale Badge Card",
+        "description": "Product with sale badge",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800",
+            "position": "top",
+            "height": "200px",
+            "overlay": true,
+            "overlayOpacity": 20
+          },
+          "header": "Featured Product",
+          "subtitle": "Limited edition",
+          "body": "Discover our newest product with premium features.",
+          "textColor": "#ffffff",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "className": "relative",
+          "children": "<div class='absolute top-4 left-4 bg-yellow-500 text-white px-3 py-1 rounded-full text-sm font-medium shadow-lg'>🔥 Best Seller</div><div class='absolute top-4 right-4 bg-red-500 text-white w-10 h-10 rounded-full flex items-center justify-center text-sm font-bold shadow-lg'>-50%</div>"
+        }
+      },
+      {
+        "id": "146",
+        "name": "Blog Post",
+        "description": "Modern blog article",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800",
+            "position": "top",
+            "height": "220px"
+          },
+          "header": {
+            "title": "10 Tips for Better Design",
+            "subtitle": "Design • 5 min read",
+            "action": "<span class='text-sm text-blue-600'>Save</span>"
+          },
+          "body": "Learn the top 10 design tips that will transform your workflow and improve your designs today.",
+          "footer": {
+            "text": "👤 By Jane Smith",
+            "actions": "<div class='flex gap-2 text-sm text-gray-500'><span>💬 24</span><span>❤️ 89</span></div>",
+            "align": "between"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "md",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "147",
+        "name": "Quote Card",
+        "description": "Inspirational quote",
+        "category": "Modern",
+        "props": {
+          "header": "💭 Daily Inspiration",
+          "body": "<div class='text-center py-4'><p class='text-lg italic text-gray-700'>\"The only way to do great work is to love what you do.\"</p><p class='text-sm text-gray-500 mt-2'>— Steve Jobs</p></div>",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "md",
+          "className": "border-l-4 border-l-blue-500"
+        }
+      },
+      {
+        "id": "148",
+        "name": "News Card",
+        "description": "Breaking news display",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "📰 Breaking News",
+            "subtitle": "Just now",
+            "action": "<span class='text-xs bg-red-500 text-white px-2 py-0.5 rounded-full'>LIVE</span>"
+          },
+          "body": "<div><p class='font-medium text-gray-800'>Major breakthrough in renewable energy technology announced today.</p><p class='text-sm text-gray-500 mt-1'>Scientists have developed a new solar panel that is 50% more efficient.</p><div class='mt-3 flex items-center gap-2 text-xs text-gray-400'><span>📍 New York, NY</span><span>•</span><span>🕐 2 min ago</span></div></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "149",
+        "name": "Article Preview",
+        "description": "Article preview card",
+        "category": "Modern",
+        "props": {
+          "header": "📝 Article Preview",
+          "subtitle": "Featured article",
+          "body": "<div><p class='text-sm text-gray-600'>A comprehensive guide to understanding modern web development trends and best practices for 2024.</p><div class='flex items-center gap-3 mt-3 text-xs text-gray-400'><span>📅 Dec 15, 2024</span><span>•</span><span>👤 John Smith</span><span>•</span><span>📚 4 min read</span></div></div>",
+          "footer": {
+            "actions": "<button class='text-sm text-blue-600 hover:underline'>Read More →</button>",
+            "align": "right"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "150",
+        "name": "Author Card",
+        "description": "Author profile card",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+            "position": "left",
+            "height": "160px"
+          },
+          "header": {
+            "title": "Dr. Sarah Mitchell",
+            "subtitle": "Author & Researcher"
+          },
+          "body": "<div><p class='text-sm text-gray-600'>Award-winning author with 15+ years of experience in scientific research and academic writing.</p><div class='flex items-center gap-4 mt-2 text-xs text-gray-400'><span>📚 12 books</span><span>•</span><span>🏆 8 awards</span></div></div>",
+          "footer": {
+            "actions": "<button class='px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>Follow</button>",
+            "align": "right"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "md",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "151",
+        "name": "Weather Card",
+        "description": "Weather forecast display",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800",
+            "position": "background",
+            "overlay": true,
+            "overlayOpacity": 30
+          },
+          "header": {
+            "title": "🌤️ 72°F",
+            "subtitle": "Sunny",
+            "align": "center"
+          },
+          "body": "<div class='grid grid-cols-3 gap-4 text-center'><div><p class='text-sm opacity-70'>Mon</p><p class='text-lg'>☀️</p><p class='text-sm'>68°</p></div><div><p class='text-sm opacity-70'>Tue</p><p class='text-lg'>⛅</p><p class='text-sm'>71°</p></div><div><p class='text-sm opacity-70'>Wed</p><p class='text-lg'>🌧️</p><p class='text-sm'>65°</p></div></div>",
+          "textColor": "#ffffff",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl"
+        }
+      },
+      {
+        "id": "152",
+        "name": "Weather Detail Card",
+        "description": "Detailed weather info",
+        "category": "Modern",
+        "props": {
+          "gradient": {
+            "from": "#4facfe",
+            "to": "#00f2fe",
+            "degree": 135
+          },
+          "textColor": "#ffffff",
+          "header": {
+            "title": "🌧️ 65°F",
+            "subtitle": "Rainy",
+            "align": "center"
+          },
+          "body": "<div class='grid grid-cols-2 gap-2 text-center text-sm'><div class='p-2 bg-white/10 rounded-lg'><p class='opacity-70'>Humidity</p><p class='font-medium'>85%</p></div><div class='p-2 bg-white/10 rounded-lg'><p class='opacity-70'>Wind</p><p class='font-medium'>12 mph</p></div><div class='p-2 bg-white/10 rounded-lg'><p class='opacity-70'>UV Index</p><p class='font-medium'>3</p></div><div class='p-2 bg-white/10 rounded-lg'><p class='opacity-70'>Visibility</p><p class='font-medium'>6 mi</p></div></div>",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl"
+        }
+      },
+      {
+        "id": "153",
+        "name": "Music Player",
+        "description": "Modern music player",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800",
+            "position": "top",
+            "height": "200px"
+          },
+          "header": {
+            "title": "Midnight Dreams",
+            "subtitle": "Album • 2024",
+            "align": "center"
+          },
+          "body": "<div class='space-y-3'><div class='flex justify-center gap-6 text-2xl'><button class='hover:scale-110 transition-transform'>⏮</button><button class='hover:scale-110 transition-transform'>▶️</button><button class='hover:scale-110 transition-transform'>⏭</button></div><div class='w-full h-1 bg-gray-200 rounded-full overflow-hidden'><div class='w-2/3 h-full bg-gradient-to-r from-blue-500 to-purple-500 rounded-full'></div></div><div class='flex justify-between text-xs text-gray-500'><span>1:23</span><span>3:45</span></div></div>",
+          "variant": "dark",
+          "padding": "md",
+          "rounded": "2xl",
+          "shadow": "xl"
+        }
+      },
+      {
+        "id": "154",
+        "name": "Event Card",
+        "description": "Event announcement",
+        "category": "Modern",
+        "props": {
+          "header": "🎨 Design Conference 2024",
+          "subtitle": "November 15-17, 2024",
+          "body": "<div><p>Join the biggest design conference of the year. Learn from industry leaders and network with fellow designers.</p><div class='flex items-center gap-4 mt-2 text-sm text-gray-500'><span>📍 San Francisco, CA</span><span>👥 500+ attendees</span></div></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>Register Now</button><button class='px-4 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Learn More</button></div>",
+            "align": "between"
+          },
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "className": "border-l-4 border-l-purple-500"
+        }
+      },
+      {
+        "id": "155",
+        "name": "Pricing Pro",
+        "description": "Premium pricing plan",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "💎 Pro Plan",
+            "subtitle": "Best for professionals",
+            "align": "center"
+          },
+          "body": "<div class='space-y-3'><div class='text-center'><span class='text-4xl font-bold'>$29</span><span class='text-gray-500'>/month</span></div><ul class='space-y-2'><li class='flex items-center gap-2'>✅ Unlimited projects</li><li class='flex items-center gap-2'>✅ 50GB storage</li><li class='flex items-center gap-2'>✅ Priority support</li><li class='flex items-center gap-2'>✅ Advanced analytics</li></ul></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:shadow-lg transition-all'>Get Started</button>",
+            "align": "center"
+          },
+          "size": "sm",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "hoverable": true,
+          "className": "border-2 border-blue-500"
+        }
+      },
+      {
+        "id": "156",
+        "name": "Subscription Card",
+        "description": "Subscription plan",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "🏢 Enterprise",
+            "subtitle": "For large teams",
+            "align": "center"
+          },
+          "body": "<div class='space-y-4'><div class='text-center'><span class='text-3xl font-bold'>$99</span><span class='text-gray-500'>/month</span></div><div class='space-y-2'><div class='flex items-center gap-2 text-sm'>✅ Unlimited everything</div><div class='flex items-center gap-2 text-sm'>✅ 24/7 support</div><div class='flex items-center gap-2 text-sm'>✅ Custom integrations</div></div><button class='w-full py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:shadow-lg transition-all'>Start Free Trial</button><p class='text-xs text-center text-gray-500'>No credit card required</p></div>",
+          "size": "sm",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg",
+          "className": "border-2 border-purple-500"
+        }
+      },
+      {
+        "id": "157",
+        "name": "Admin Stats",
+        "description": "Dashboard statistics",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Total Revenue",
+            "icon": "💰",
+            "action": "<span class='text-sm text-green-600'>↑ 12.5%</span>"
+          },
+          "body": {
+            "text": "$54,239",
+            "textClassName": "text-3xl font-bold"
+          },
+          "footer": {
+            "text": "vs $48,200 last month",
+            "align": "left",
+            "className": "text-sm text-gray-500"
+          },
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "sm",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "158",
+        "name": "Admin Activity",
+        "description": "Recent activity log",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Recent Activity",
+            "icon": "📋",
+            "action": "<span class='text-sm text-blue-600'>View All</span>"
+          },
+          "body": "<div class='space-y-3'><div class='flex items-center gap-3 p-2 hover:bg-gray-50 rounded-lg'><span class='text-2xl'>👤</span><div class='flex-1'><p class='text-sm font-medium'>New user registered</p><p class='text-xs text-gray-500'>2 minutes ago</p></div></div><div class='flex items-center gap-3 p-2 hover:bg-gray-50 rounded-lg'><span class='text-2xl'>💳</span><div class='flex-1'><p class='text-sm font-medium'>Payment received</p><p class='text-xs text-gray-500'>15 minutes ago</p></div></div><div class='flex items-center gap-3 p-2 hover:bg-gray-50 rounded-lg'><span class='text-2xl'>📊</span><div class='flex-1'><p class='text-sm font-medium'>Report generated</p><p class='text-xs text-gray-500'>1 hour ago</p></div></div></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "159",
+        "name": "Quick Actions",
+        "description": "Quick action buttons",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "⚡ Quick Actions",
+            "align": "center"
+          },
+          "body": "<div class='grid grid-cols-3 gap-3'><button class='p-4 bg-blue-50 hover:bg-blue-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>👤</span><span class='text-xs'>Add User</span></button><button class='p-4 bg-green-50 hover:bg-green-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>📊</span><span class='text-xs'>Reports</span></button><button class='p-4 bg-purple-50 hover:bg-purple-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>⚙️</span><span class='text-xs'>Settings</span></button><button class='p-4 bg-yellow-50 hover:bg-yellow-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>📧</span><span class='text-xs'>Email</span></button><button class='p-4 bg-red-50 hover:bg-red-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>🔒</span><span class='text-xs'>Security</span></button><button class='p-4 bg-indigo-50 hover:bg-indigo-100 rounded-xl transition-colors text-center'><span class='text-2xl block'>📱</span><span class='text-xs'>Mobile</span></button></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "160",
+        "name": "Admin Server",
+        "description": "Server status monitoring",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Server Status",
+            "icon": "🖥️"
+          },
+          "body": "<div class='space-y-3'><div class='flex items-center justify-between'><span class='text-sm'>API Server</span><div class='flex items-center gap-2'><span class='w-2 h-2 bg-green-500 rounded-full animate-pulse'></span><span class='text-sm text-green-600'>Online</span></div></div><div class='flex items-center justify-between'><span class='text-sm'>Database</span><div class='flex items-center gap-2'><span class='w-2 h-2 bg-green-500 rounded-full animate-pulse'></span><span class='text-sm text-green-600'>Online</span></div></div><div class='flex items-center justify-between'><span class='text-sm'>Cache Server</span><div class='flex items-center gap-2'><span class='w-2 h-2 bg-yellow-500 rounded-full animate-pulse'></span><span class='text-sm text-yellow-600'>Degraded</span></div></div><div class='flex items-center justify-between border-t pt-2'><span class='text-sm font-medium'>Uptime</span><span class='text-sm font-medium text-green-600'>99.97%</span></div></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "161",
+        "name": "Login Card",
+        "description": "Modern login interface",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Welcome Back!",
+            "subtitle": "Login to your account",
+            "icon": "🔐",
+            "align": "center"
+          },
+          "body": "<div class='space-y-4'><input type='email' placeholder='Enter your email' class='w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='password' placeholder='Enter your password' class='w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><div class='flex items-center justify-between text-sm'><label class='flex items-center gap-2'><input type='checkbox' class='w-4 h-4' /> Remember me</label><a href='#' class='text-blue-600 hover:underline'>Forgot password?</a></div></div>",
+          "footer": {
+            "actions": "<div><button class='w-full py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:shadow-lg transition-all'>Sign In</button><p class='text-sm text-center text-gray-500 mt-2'>Don't have an account? <a href='#' class='text-blue-600 hover:underline'>Sign up</a></p></div>",
+            "align": "center"
+          },
+          "size": "sm",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl"
+        }
+      },
+      {
+        "id": "162",
+        "name": "Sign Up Card",
+        "description": "Modern registration",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Create Account",
+            "subtitle": "Get started for free",
+            "icon": "✨",
+            "align": "center"
+          },
+          "body": "<div class='space-y-3'><div class='grid grid-cols-2 gap-3'><input type='text' placeholder='First name' class='px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500' /><input type='text' placeholder='Last name' class='px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500' /></div><input type='email' placeholder='Email address' class='w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500' /><input type='password' placeholder='Password' class='w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-blue-500' /><div class='flex items-center gap-2 text-sm'><input type='checkbox' class='w-4 h-4' /><span class='text-gray-600'>I agree to the Terms & Conditions</span></div></div>",
+          "footer": {
+            "actions": "<div><button class='w-full py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:shadow-lg transition-all'>Create Account</button><p class='text-sm text-center text-gray-500 mt-2'>Already have an account? <a href='#' class='text-blue-600 hover:underline'>Sign in</a></p></div>",
+            "align": "center"
+          },
+          "size": "sm",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "xl"
+        }
+      },
+      {
+        "id": "163",
+        "name": "2FA Card",
+        "description": "Two-factor authentication",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Two-Factor Authentication",
+            "subtitle": "Enter verification code",
+            "icon": "🔑",
+            "align": "center"
+          },
+          "body": "<div class='text-center space-y-4'><p class='text-sm text-gray-500'>We sent a verification code to your email</p><div class='flex justify-center gap-2'><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /><input type='text' maxlength='1' class='w-12 h-12 text-center text-xl border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent' /></div><p class='text-sm text-gray-500'>Resend code in <span class='font-medium text-blue-600'>45s</span></p></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors'>Verify</button>",
+            "align": "center"
+          },
+          "size": "sm",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "lg"
+        }
+      },
+      {
+        "id": "164",
+        "name": "Notification Card",
+        "description": "Alert notification",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "🔔 Notifications",
+            "subtitle": "3 unread",
+            "action": "<span class='text-sm text-blue-600'>Mark all read</span>"
+          },
+          "body": "<div class='space-y-2'><div class='flex items-start gap-3 p-2 bg-blue-50 rounded-lg border-l-4 border-l-blue-500'><span class='text-2xl'>📧</span><div><p class='text-sm font-medium'>New email from Sarah</p><p class='text-xs text-gray-500'>2 minutes ago</p></div></div><div class='flex items-start gap-3 p-2 hover:bg-gray-50 rounded-lg'><span class='text-2xl'>👍</span><div><p class='text-sm font-medium'>John liked your post</p><p class='text-xs text-gray-500'>15 minutes ago</p></div></div><div class='flex items-start gap-3 p-2 hover:bg-gray-50 rounded-lg'><span class='text-2xl'>💬</span><div><p class='text-sm font-medium'>New comment on your project</p><p class='text-xs text-gray-500'>1 hour ago</p></div></div></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 text-blue-600 hover:bg-blue-50 rounded-lg transition-colors'>View All Notifications</button>",
+            "align": "center"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "165",
+        "name": "Success Alert",
+        "description": "Success notification",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "✅ Success!",
+            "subtitle": "Action completed",
+            "icon": "🎉",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-green-600 font-medium'>Your changes have been saved</p><p class='text-sm text-gray-500 mt-1'>You can now continue working</p></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700'>Continue</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Dismiss</button></div>",
+            "align": "between"
+          },
+          "variant": "success",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "166",
+        "name": "Error Alert",
+        "description": "Error notification",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "❌ Error",
+            "subtitle": "Something went wrong",
+            "icon": "⚠️",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-red-600 font-medium'>Failed to save changes</p><p class='text-sm text-gray-500 mt-1'>Please check your connection and try again</p></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700'>Try Again</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Cancel</button></div>",
+            "align": "between"
+          },
+          "variant": "danger",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "167",
+        "name": "Warning Alert",
+        "description": "Warning notification",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "⚠️ Warning",
+            "subtitle": "Action required",
+            "icon": "🔔",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-yellow-600 font-medium'>Your session will expire in 5 minutes</p><p class='text-sm text-gray-500 mt-1'>Please save your work</p></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700'>Extend Session</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Dismiss</button></div>",
+            "align": "between"
+          },
+          "variant": "warning",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "168",
+        "name": "Info Alert",
+        "description": "Information notification",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "ℹ️ Information",
+            "subtitle": "Did you know?",
+            "icon": "💡",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-blue-600 font-medium'>New feature available!</p><p class='text-sm text-gray-500 mt-1'>Check out the new dashboard analytics</p></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>Learn More</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Dismiss</button></div>",
+            "align": "between"
+          },
+          "variant": "info",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "169",
+        "name": "Profile Card",
+        "description": "Modern user profile",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+            "position": "top",
+            "height": "120px"
+          },
+          "body": "<div class='text-center -mt-12 relative z-10'><div class='w-24 h-24 mx-auto rounded-full border-4 border-white bg-gradient-to-r from-purple-500 to-pink-500 overflow-hidden'><img src='https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200' alt='Profile' class='w-full h-full object-cover' /></div><h3 class='text-xl font-bold mt-2'>Jessica Parker</h3><p class='text-sm text-gray-500'>@jessica_parker • 12.5K followers</p><p class='text-sm mt-1'>📸 Photographer | ✈️ Traveler | 🌱 Nature lover</p><div class='flex justify-center gap-6 mt-3 text-sm'><div><span class='block font-bold text-lg'>342</span><span class='text-gray-500'>Posts</span></div><div><span class='block font-bold text-lg'>12.5K</span><span class='text-gray-500'>Followers</span></div><div><span class='block font-bold text-lg'>1.2K</span><span class='text-gray-500'>Following</span></div></div></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600'>Follow</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Message</button></div>",
+            "align": "between"
+          },
+          "padding": "md",
+          "rounded": "2xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "170",
+        "name": "Team Profile",
+        "description": "Team member profile",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+            "position": "left",
+            "height": "180px"
+          },
+          "header": {
+            "title": "Michael Rodriguez",
+            "subtitle": "CTO & Co-founder",
+            "icon": "👨‍💻"
+          },
+          "body": "<div><p class='text-sm text-gray-600'>10+ years of experience in tech leadership</p><div class='flex items-center gap-2 text-sm mt-1'><span>📧 michael@company.com</span><span>•</span><span>📱 +1 (555) 123-4567</span></div></div>",
+          "footer": {
+            "actions": "<div class='flex gap-2'><button class='flex-1 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>Message</button><button class='flex-1 py-2 bg-gray-200 rounded-lg hover:bg-gray-300'>Profile</button></div>",
+            "align": "between"
+          },
+          "variant": "primary",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "md",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "171",
+        "name": "Business Metrics",
+        "description": "Key business metrics",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Quarterly Performance",
+            "subtitle": "Q4 2024",
+            "icon": "📈",
+            "action": "<span class='text-sm text-green-600'>↑ 15.3%</span>"
+          },
+          "body": "<div class='grid grid-cols-3 gap-4'><div class='text-center'><p class='text-2xl font-bold text-blue-600'>$2.4M</p><p class='text-xs text-gray-500'>Revenue</p></div><div class='text-center'><p class='text-2xl font-bold text-green-600'>1,847</p><p class='text-xs text-gray-500'>Customers</p></div><div class='text-center'><p class='text-2xl font-bold text-purple-600'>94%</p><p class='text-xs text-gray-500'>Satisfaction</p></div></div>",
+          "footer": {
+            "text": "Updated: Today at 2:30 PM",
+            "align": "center"
+          },
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "sm",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "172",
+        "name": "Project Status",
+        "description": "Project progress display",
+        "category": "Modern",
+        "props": {
+          "header": "Project Alpha",
+          "subtitle": "Due: Dec 31, 2024",
+          "body": "<div class='space-y-3'><div class='flex justify-between text-sm'><span>Progress</span><span class='font-medium'>75%</span></div><div class='w-full h-2 bg-gray-200 rounded-full overflow-hidden'><div class='w-3/4 h-full bg-gradient-to-r from-blue-500 to-purple-500 rounded-full'></div></div><div class='flex justify-between text-sm text-gray-500'><span>✅ 15/20 tasks completed</span><span>⏰ 5 days remaining</span></div></div>",
+          "footer": {
+            "actions": "<button class='w-full py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>View Details</button>",
+            "align": "center"
+          },
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "173",
+        "name": "Revenue Breakdown",
+        "description": "Revenue by channel",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Revenue by Channel",
+            "icon": "💵"
+          },
+          "body": "<div class='space-y-3'><div class='flex justify-between items-center'><span class='text-sm'>Direct Sales</span><div class='flex items-center gap-2'><div class='w-32 h-2 bg-gray-200 rounded-full overflow-hidden'><div class='w-2/3 h-full bg-blue-500 rounded-full'></div></div><span class='text-sm font-medium'>$1.2M</span></div></div><div class='flex justify-between items-center'><span class='text-sm'>Partners</span><div class='flex items-center gap-2'><div class='w-32 h-2 bg-gray-200 rounded-full overflow-hidden'><div class='w-1/2 h-full bg-purple-500 rounded-full'></div></div><span class='text-sm font-medium'>$890K</span></div></div><div class='flex justify-between items-center'><span class='text-sm'>Online</span><div class='flex items-center gap-2'><div class='w-32 h-2 bg-gray-200 rounded-full overflow-hidden'><div class='w-1/3 h-full bg-green-500 rounded-full'></div></div><span class='text-sm font-medium'>$560K</span></div></div></div>",
+          "padding": "md",
+          "rounded": "xl",
+          "shadow": "sm"
+        }
+      },
+      {
+        "id": "174",
+        "name": "Company Vision",
+        "description": "Mission statement",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "Our Mission",
+            "icon": "🎯",
+            "align": "center"
+          },
+          "body": "<div class='text-center space-y-4'><p class='text-lg font-medium text-gray-700'>\"To empower businesses with innovative solutions\"</p><div class='flex justify-center gap-8 text-sm'><div><span class='block text-2xl'>🌍</span><span>Global Impact</span></div><div><span class='block text-2xl'>💡</span><span>Innovation</span></div><div><span class='block text-2xl'>🤝</span><span>Collaboration</span></div></div></div>",
+          "footer": {
+            "text": "Est. 2010",
+            "align": "center",
+            "className": "text-gray-400"
+          },
+          "variant": "secondary",
+          "padding": "lg",
+          "rounded": "2xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "175",
+        "name": "Testimonial Card",
+        "description": "Customer testimonial",
+        "category": "Modern",
+        "props": {
+          "header": "⭐ ⭐ ⭐ ⭐ ⭐",
+          "body": "<div><p class='text-lg italic text-gray-700'>\"This product has completely transformed how we work. The team is amazing and the support is outstanding.\"</p><div class='flex items-center gap-3 mt-4 pt-4 border-t border-gray-100'><div class='w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center text-white font-bold text-lg'>JD</div><div><p class='font-semibold'>John Doe</p><p class='text-sm text-gray-500'>CEO, Tech Corp</p></div></div></div>",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "176",
+        "name": "Animated Gradient",
+        "description": "Live gradient animation",
+        "category": "Modern",
+        "props": {
+          "gradient": {
+            "from": "#4158D0",
+            "to": "#C850C0",
+            "degree": 135
+          },
+          "textColor": "#ffffff",
+          "header": "Live Gradient",
+          "subtitle": "Animated background",
+          "body": "This card has a beautiful animated gradient background.",
+          "padding": "xl",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "animate-gradient bg-[length:200%_200%]"
+        }
+      },
+      {
+        "id": "177",
+        "name": "Hero Card",
+        "description": "Large hero-style card",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+            "position": "top",
+            "height": "300px",
+            "overlay": true,
+            "overlayOpacity": 30
+          },
+          "header": {
+            "title": "Discover New Horizons",
+            "subtitle": "Explore the world",
+            "align": "center"
+          },
+          "body": "<div class='text-center'><p class='text-lg'>Travel to new destinations and experience different cultures.</p><button class='mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700'>Explore Now</button></div>",
+          "textColor": "#ffffff",
+          "size": "full",
+          "padding": "xl",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "hoverable": true
+        }
+      },
+      {
+        "id": "178",
+        "name": "Glassmorphism Card",
+        "description": "Modern glass effect",
+        "category": "Modern",
+        "props": {
+          "backgroundColor": "rgba(255,255,255,0.15)",
+          "header": "Glass Card",
+          "subtitle": "Frosted glass effect",
+          "body": "This card uses a modern glassmorphism design with blur and transparency.",
+          "border": true,
+          "borderColor": "white/20",
+          "rounded": "2xl",
+          "shadow": "xl",
+          "padding": "lg",
+          "className": "backdrop-blur-md bg-white/10"
+        }
+      },
+      {
+        "id": "179",
+        "name": "Split Layout",
+        "description": "Card with split content",
+        "category": "Modern",
+        "props": {
+          "header": "Split Layout",
+          "body": "<div class='flex'><div class='flex-1 p-4'><h4 class='font-semibold text-gray-800'>Left Content</h4><p class='text-sm text-gray-500'>This is the left side content.</p></div><div class='flex-1 p-4 bg-gray-50 rounded-r-xl'><h4 class='font-semibold text-gray-800'>Right Content</h4><p class='text-sm text-gray-500'>This is the right side content.</p></div></div>",
+          "variant": "default",
+          "padding": "none",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      },
+      {
+        "id": "180",
+        "name": "Colorful Border",
+        "description": "Accent border card",
+        "category": "Modern",
+        "props": {
+          "header": "Featured",
+          "subtitle": "With colored border",
+          "body": "This card has a colorful left border accent.",
+          "variant": "default",
+          "border": true,
+          "borderColor": "transparent",
+          "padding": "lg",
+          "rounded": "lg",
+          "shadow": "sm",
+          "className": "border-l-4 border-l-blue-500"
+        }
+      },
+      {
+        "id": "181",
+        "name": "Dark Mode Card",
+        "description": "Dark interface design",
+        "category": "Modern",
+        "props": {
+          "variant": "dark",
+          "header": "Dark Theme",
+          "subtitle": "Perfect for dark UIs",
+          "body": "This card is designed specifically for dark mode interfaces.",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "lg",
+          "hoverable": true,
+          "footer": {
+            "text": "🔒 Secure connection",
+            "align": "left",
+            "className": "text-gray-400"
+          }
+        }
+      },
+      {
+        "id": "182",
+        "name": "Image Focus",
+        "description": "Full-width image focus",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800",
+            "position": "top",
+            "height": "350px",
+            "overlay": true,
+            "overlayOpacity": 20
+          },
+          "header": "Nature's Beauty",
+          "subtitle": "Mountain sunset",
+          "body": "Witness the breathtaking beauty of nature at its finest.",
+          "textColor": "#ffffff",
+          "size": "full",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "xl",
+          "hoverable": true,
+          "className": "hover:scale-[1.02] transition-transform"
+        }
+      },
+      {
+        "id": "183",
+        "name": "Badge Card",
+        "description": "Floating badge design",
+        "category": "Modern",
+        "props": {
+          "header": "Latest Release",
+          "subtitle": "Version 2.0",
+          "body": "Check out the new features and improvements in this release.",
+          "variant": "default",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md",
+          "className": "relative overflow-visible",
+          "children": "<div class='absolute -top-3 -right-3 bg-red-500 text-white px-3 py-1 rounded-full text-sm font-medium shadow-lg'>NEW</div>"
+        }
+      },
+      {
+        "id": "184",
+        "name": "Full Width Hero",
+        "description": "Full width hero section",
+        "category": "Modern",
+        "props": {
+          "image": {
+            "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200",
+            "position": "background",
+            "overlay": true,
+            "overlayOpacity": 40
+          },
+          "header": {
+            "title": "Welcome to Our Platform",
+            "subtitle": "The future of digital solutions",
+            "align": "center"
+          },
+          "body": "<div class='text-center space-y-4'><p class='text-lg'>Transform your business with cutting-edge technology</p><button class='px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-lg font-medium'>Get Started</button></div>",
+          "textColor": "#ffffff",
+          "size": "full",
+          "padding": "xl",
+          "rounded": "xl",
+          "shadow": "lg",
+          "className": "min-h-[400px]"
+        }
+      },
+      {
+        "id": "185",
+        "name": "Full Width Banner",
+        "description": "Full width promotional banner",
+        "category": "Modern",
+        "props": {
+          "gradient": {
+            "from": "#667eea",
+            "to": "#764ba2",
+            "degree": 135
+          },
+          "textColor": "#ffffff",
+          "header": {
+            "title": "🔥 Limited Time Offer",
+            "subtitle": "Get 50% off on annual plans",
+            "align": "center"
+          },
+          "body": "<div class='flex items-center justify-center gap-8 flex-wrap'><div class='text-center'><span class='text-4xl font-bold'>$49</span><span class='text-lg opacity-70'>/month</span></div><button class='px-8 py-3 bg-white text-purple-600 rounded-lg hover:shadow-lg transition-all font-medium'>Claim Offer</button><p class='text-sm opacity-70'>Hurry, offer ends soon!</p></div>",
+          "size": "full",
+          "padding": "xl",
+          "rounded": "xl",
+          "shadow": "lg"
+        }
+      },
+      {
+        "id": "186",
+        "name": "Full Width Stats",
+        "description": "Full width statistics",
+        "category": "Modern",
+        "props": {
+          "header": {
+            "title": "📊 Platform Statistics",
+            "align": "center"
+          },
+          "body": "<div class='grid grid-cols-1 md:grid-cols-4 gap-4'><div class='text-center p-4 bg-blue-50 rounded-xl'><span class='block text-3xl font-bold text-blue-600'>12.4K</span><span class='text-sm text-gray-500'>Users</span></div><div class='text-center p-4 bg-green-50 rounded-xl'><span class='block text-3xl font-bold text-green-600'>$2.8M</span><span class='text-sm text-gray-500'>Revenue</span></div><div class='text-center p-4 bg-purple-50 rounded-xl'><span class='block text-3xl font-bold text-purple-600'>4.3K</span><span class='text-sm text-gray-500'>Projects</span></div><div class='text-center p-4 bg-orange-50 rounded-xl'><span class='block text-3xl font-bold text-orange-600'>98%</span><span class='text-sm text-gray-500'>Satisfaction</span></div></div>",
+          "size": "full",
+          "padding": "lg",
+          "rounded": "xl",
+          "shadow": "md"
+        }
+      }
+    ]
+  }
